@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MyDefault Test Suite" duration-ms="175654" started-at="2018-07-20T05:53:19Z" finished-at="2018-07-20T05:56:15Z">
+    <groups>
+    </groups>
+    <test name="Command line test ff085350-bd91-40a3-b659-65fbb2b1723c" duration-ms="175654" started-at="2018-07-20T05:53:19Z" finished-at="2018-07-20T05:56:15Z">
+      <class name="com.ebay.test.Ebay_Test">
+        <test-method status="PASS" signature="login_ParkNow(com.loylty.businessobject.TestCase)[pri:0, instance:com.ebay.test.Ebay_Test@63b01d1c]" name="login_ParkNow" duration-ms="158100" started-at="2018-07-20T11:23:19Z" data-provider="testObjDP" finished-at="2018-07-20T11:25:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestCase [testMethodName=login_ParkNow, description=null, moduleName=null, execution=false, username=null, password=null, browser=null, version=null, testData={Expectedresult='', Username=Retest, Password=Password@123}, nodeAddress=null, browserVersionID=null, isSanityTC=false, ResultOfTC=false, exceptionMessage=null]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_ParkNow -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.ebay.test.Ebay_Test@63b01d1c]" name="teardown" is-config="true" duration-ms="17535" started-at="2018-07-20T11:25:57Z" finished-at="2018-07-20T11:26:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.ebay.test.Ebay_Test -->
+    </test> <!-- Command line test ff085350-bd91-40a3-b659-65fbb2b1723c -->
+  </suite> <!-- MyDefault Test Suite -->
+</testng-results>

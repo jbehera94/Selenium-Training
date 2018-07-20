@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MyDefault Test Suite]">
+  <test name="Command line test ff085350-bd91-40a3-b659-65fbb2b1723c">
+    <classes>
+      <class name="com.ebay.test.Ebay_Test">
+        <methods>
+          <include name="login_ParkNow"/>
+        </methods>
+      </class> <!-- com.ebay.test.Ebay_Test -->
+    </classes>
+  </test> <!-- Command line test ff085350-bd91-40a3-b659-65fbb2b1723c -->
+</suite> <!-- Failed suite [MyDefault Test Suite] -->
