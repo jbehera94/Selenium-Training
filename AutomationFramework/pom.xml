@@ -61,7 +61,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 		<dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi</artifactId>
-			<version>3.15</version>
+			<version>3.17</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.poi</groupId>
